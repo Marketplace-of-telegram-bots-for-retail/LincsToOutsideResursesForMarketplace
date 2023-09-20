@@ -11,11 +11,12 @@
 
 ## Записи встреч
 <details>
-  [part 1](https://disk.yandex.ru/i/ZLvnwB5ARXZ19Q) <br>
-  [part 2](https://disk.yandex.ru/i/G_AI9dGq89elqw) <br>
-  [Сообщение в телеграмме](https://t.me/c/1883789563/8/242) <br>
-  [Следующая встреча](https://t.me/c/1883789563/8/1068) <br>
-  
+  <div>
+  [part 1](https://disk.yandex.ru/i/ZLvnwB5ARXZ19Q)
+  [part 2](https://disk.yandex.ru/i/G_AI9dGq89elqw)
+  [Сообщение в телеграмме](https://t.me/c/1883789563/8/242)
+  [Следующая встреча](https://t.me/c/1883789563/8/1068)
+  </div>
 </details>
 
 ## [Сайт продажа ТГ ботов, для примера:](https://apbot.ru/bots)
