@@ -1,5 +1,5 @@
 # LincsToOutsideResursesForMarketplace
-Сcылки на различные внешние ресурсы использующиеся в проекте
+
 
 ## Доска миро [Miro](https://miro.com/app/board/uXjVMmGMkh8=/?share_link_id=612857840073)
 ## Фич лист [FL](https://docs.google.com/spreadsheets/d/1AUvBSuFTTzSZNf3UAr8w3samtr__hQ5t3ZAolTxt6aA/edit#gid=0)
