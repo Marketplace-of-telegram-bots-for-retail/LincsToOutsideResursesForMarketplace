@@ -24,4 +24,4 @@
 ## [Figma](qase.io)
 ## [Octopus](https://octopus.do/lykjn0cyxdi)
 ## [Маркетплейс с хабра](https://marketplace.ace.su/)
-
+## [SMTP](https://www.netangels.ru/support/cloud-vds/mail-on-start/)
