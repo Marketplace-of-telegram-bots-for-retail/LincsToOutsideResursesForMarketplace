@@ -7,14 +7,14 @@
 ## База данных [PSQL](https://dbdiagram.io/d/TelegramBotsMarketplace-65046c6a02bd1c4a5ea731ad)
 ## Орг. таблица [ORG](https://docs.google.com/spreadsheets/d/11EvMCgvGa-EwaK4tuTJRtvsTYf83SzgQJ1Nm6Y_Om7I/edit#gid=830421876)
 ## Лекция по гитхаб [Видео с лекцией](https://disk.yandex.ru/d/HSYd_HshpFC6dQ)
-## [Сыылка на пост](https://t.me/c/1883789563/8/1547)
+## [Сылка на пост](https://t.me/c/1883789563/8/1547)
 
 ##Записи встреч
 <details>
-  - [part 1](https://disk.yandex.ru/i/ZLvnwB5ARXZ19Q)
-  - [part 2](https://disk.yandex.ru/i/G_AI9dGq89elqw)
-  - [Сообщение в телеграмме](https://t.me/c/1883789563/8/242)
-  - [Следующая встреча](https://t.me/c/1883789563/8/1068)
+  #### [part 1](https://disk.yandex.ru/i/ZLvnwB5ARXZ19Q)
+  #### [part 2](https://disk.yandex.ru/i/G_AI9dGq89elqw)
+  #### [Сообщение в телеграмме](https://t.me/c/1883789563/8/242)
+  #### [Следующая встреча](https://t.me/c/1883789563/8/1068)
   
 </details>
 
