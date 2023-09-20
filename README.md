@@ -19,8 +19,8 @@
   
 </details>
 
-## [Сайт продажа ТГ ботов, для примера:](https://apbot.ru/bots)
-## [Наработки по дизайну:](https://octopus.do/lykjn0cyxdi)
+## [Сайт продажа ТГ ботов, для примера](https://apbot.ru/bots)
+## [Наработки по дизайну](https://octopus.do/lykjn0cyxdi)
 ## [Figma](qase.io)
 ## [Octopus](https://octopus.do/lykjn0cyxdi)
 
