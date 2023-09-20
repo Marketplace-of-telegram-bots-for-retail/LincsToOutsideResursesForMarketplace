@@ -1,6 +1,6 @@
 # LincsToOutsideResursesForMarketplace
 
-
+## [ТЗ](https://docs.google.com/document/d/12aaOBUFUR--86Om-tVIebFviGJ04Y6njp1uT5HVdzVs/edit)
 ## Доска миро [Miro](https://miro.com/app/board/uXjVMmGMkh8=/?share_link_id=612857840073)
 ## Фич лист [FL](https://docs.google.com/spreadsheets/d/1AUvBSuFTTzSZNf3UAr8w3samtr__hQ5t3ZAolTxt6aA/edit#gid=0)
 ## Валидация [Validation](https://docs.google.com/spreadsheets/d/1x1PCPDfz_UkQalW_4BEehOxwYkdtFGebvcg_ljcO9GI/edit#gid=0)
