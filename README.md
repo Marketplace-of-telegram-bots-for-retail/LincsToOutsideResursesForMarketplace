@@ -25,3 +25,4 @@
 ## [Octopus](https://octopus.do/lykjn0cyxdi)
 ## [Маркетплейс с хабра](https://marketplace.ace.su/)
 ## [SMTP](https://www.netangels.ru/support/cloud-vds/mail-on-start/)
+## [Ссылки по проекту](https://docs.google.com/spreadsheets/d/1iP-u8NpW6_0dI-MGuPrOwAKwh6325Ie9VDSLf050jVc/edit#gid=0)
